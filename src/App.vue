@@ -39,7 +39,7 @@
 
     </v-navigation-drawer>
      
-    <v-app-bar hide-on-scroll class="toolbar" dark color="rgb(79, 79, 172)" :clipped-left="primaryDrawer.clipped" app>
+    <v-app-bar hide-on-scroll class="toolbar" dark color="blue-grey darken-4" :clipped-left="primaryDrawer.clipped" app>
       <v-app-bar-nav-icon @click.stop="primaryDrawer.model = !primaryDrawer.model"></v-app-bar-nav-icon>
       <v-toolbar-title  class="headline text-uppercase">
         <span class="font-weight-light">ARBRE DE COMPETENCE</span>
