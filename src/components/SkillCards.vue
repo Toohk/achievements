@@ -127,7 +127,7 @@ export default {
           {
             name: "Vue JS",
             rank: 4,
-            avatar: "http://assets.stickpng.com/thumbs/58482acecef1014c0b5e4a1e.png",
+            avatar: "https://cdn.auth0.com/blog/vuejs/vue-logo.png",
             text:"Vue.js est un framework JavaScript open-source utilisé pour construire des interfaces utilisateur. La bibliothèque est notamment utilisée par Adobe, Alibaba et Gitlab. Vue a été créé par Evan You après avoir travaillé pour Google en utilisant AngularJS dans plusieurs projets",
             source:"https://fr.wikipedia.org/wiki/Vue.js"
           },
